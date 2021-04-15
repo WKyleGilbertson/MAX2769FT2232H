@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC04
+D Hex Inverter
+K AHCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74AHC04_copy
+D Hex Inverter
+K AHCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT04.pdf
+$ENDCMP
+#
+$CMP 74HC04
+D Hex Inverter
+K HCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+$ENDCMP
+#
+$CMP 74HC2G04
+D Hex Inverter
+K HCMOS not inv
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT2G04_Q100.pdf
+$ENDCMP
+#
+$CMP 74LVC1G74
+D Single D Flip-Flop, Low-Voltage CMOS
+K Single D Flip-Flop D CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC374
+D 8-bit Register, 3-state outputs
+K HCMOS DFF DFF8 REG 3State
+F https://www.ti.com/lit/ds/symlink/cd74hct374.pdf
+$ENDCMP
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Conn_Coaxial
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+F  ~
+$ENDCMP
+#
+$CMP Ferrite_Bead
+D Ferrite bead
+K L ferrite bead inductor filter
+F ~
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP MountingHole_Pad
+D Mounting Hole with connection
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP NCP164CSN330T1G
+D 300mA, Low Noise, Linear Regulator, 1.6-5.0V input voltage range, 3.3V fixed positive output, TSOT-23-5
+K linear regulator ldo fixed positive
+F https://www.onsemi.com/pub/Collateral/NCP164C-D.PDF
+$ENDCMP
+#
+$CMP RF_Shield_One_Piece
+D One-piece EMI RF shielding cabinet
+K RF EMI shielding cabinet
+F ~
+$ENDCMP
+#
+$CMP R_US
+D Resistor, US symbol
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP USB_A
+D USB Type A connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library

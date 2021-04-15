@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MAX2769FT2232H)(type KiCad)(uri ${KIPRJMOD}/MAX2769FT2232H.pretty)(options "")(descr ""))
+)
