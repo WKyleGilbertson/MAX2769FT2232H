@@ -3386,6 +3386,8 @@ F 5 "IC INVERTER 1CH 1-INP 5TSSOP" H 6950 1100 50  0001 C CNN "Description"
 	1    6950 1100
 	1    0    0    -1  
 $EndComp
+Text Notes 14350 1550 0    50   ~ 0
+MAX8510: C26<=10 nF, C48<=NC\nTI717:    C48<=10 nF, C26<=NC
 Wire Bus Line
 	6550 600  12550 600 
 Wire Bus Line
@@ -3398,4 +3400,6 @@ Wire Bus Line
 	6400 4350 6400 6000
 Wire Bus Line
 	9000 1800 9000 4300
+Text Notes 14350 4450 0    50   ~ 0
+MAX8510: C22<=10 nF, C47<=NC\nTI717:    C47<=10 nF, C22<=NC
 $EndSCHEMATC
