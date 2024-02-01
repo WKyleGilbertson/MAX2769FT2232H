@@ -4,3 +4,5 @@ This design was created to provide a hands-on platform for exploring GPS signal 
 This design was created because this one: https://pdfserv.maximintegrated.com/en/an/AN4275.pdf was never made available.
 
 ![USBGPS](https://github.com/WKyleGilbertson/MAX2769FT2232H/assets/17881327/383d1147-0381-4d93-a4c6-8234e5fd78eb)
+
+Fully assembled and tested version of this card may be obtained here: https://www.navstargps.us/
